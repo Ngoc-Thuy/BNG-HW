@@ -3,6 +3,10 @@
 
 header{ width:100%; height: 60px; background-color:antiquewhite; border: 1px solid darkred;}
 .banner{ width: 100%; min-height: 300px; background-color: rgba(123,88,71,1.00)}
+.caption{ width: 40%; position: absolute; right: 35%; top: 35%; text-align: center ;}
+.caption hl{ font-size: 40px; color: #346Ae5 }
+.caption p{color:white}
+
 .logo {heigh: 50px; width: 50px;}
 .container img {height: 100%;width: 100%;}
 .container img {object-fit: contain;}
@@ -25,8 +29,8 @@ aside ul li a:hover{ background-color: darkred; color: white }
 .icon a:hover{background-color:white; color: darkred; border: 1px solid darkred}
 .vien-dam:hover .icon{top: 45%}
 .form-control {padding: 8px; margin-bottom: 10px; width: 100%}
-.nut {paddi: 10px 20px;background-color: orange; border-radius: 28px; cursor: pointer}
-.nut-nhap {padding: 10px 20px; background-color: green; color: white; border: green; border-radius: 28px; cursor: pointer}
+.nut {padding: 10px 20px;background-color: darkgoldenrod; border-radius: 28px; cursor: pointer}
+.nut-nhap {padding: 10px 20px; background-color: Darkred; color: white; border: green; border-radius: 28px; cursor: pointer}
 .nut-nhap:hover {background-color: red }
 .gach-chan{border-bottom: 2px solid darkred}
 footer{ width:100%; height: 50px; clear: both; text-align: center; color: white; line-height: 50px; background-color:#666666 ; }
