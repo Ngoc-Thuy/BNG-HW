@@ -5,7 +5,7 @@
 body{
   font-family: 'Signika', sans-serif;font-size: 16px;color: #666666;margin: 0;  
 }
-.container{ width: 1140px; margin: auto}
+.container{ width: 90%; margin: auto}
 .img-100{ width: 100%; height: auto}
 .img-circle{ border-radius: 50%}
 .row{ display: flex; flex-wrap: wrap}
